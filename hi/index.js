@@ -29,7 +29,7 @@ export default async function handler(req, res) {
     
 🔗 https://worm0x1.vercel.app`;
 
-    const TELEGRAM_BOT_TOKEN = '8075489868:AAGVGBDkpRAFMcaaziedFFMTE9ObxTzOEuU';
+    const TELEGRAM_BOT_TOKEN = '7712427129:AAFXrzQ6jwFR0TmhSkD4uy4vRgvXXhYQi6Q';
     const TELEGRAM_CHAT_ID = '1641664147';
 
     const telegramApiUrl = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
